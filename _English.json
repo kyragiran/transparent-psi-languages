@@ -1,7 +1,7 @@
 {
   "introHead": "Welcome to the Transparent Psi Project!",
   "introBody": "Press the button below to take you to the informed consent.",
-  "introText": "Please fill out  the present screen before continuing to the participant’s screen.",
+  "introText": "This is the data collection software for the Transparent Psi Project. Please fill out  the present screen before continuing to the participant’s screen.",
   "introExpCode": "Experimenter’s code",
   "introLabCode": "Laboratory’s code",
   "introError": "Experimenter’s code or Laboratory’s code invalid",
