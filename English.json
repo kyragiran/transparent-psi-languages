@@ -6,7 +6,7 @@
   "introLabCode": "Laboratory’s code",
   "introError": "Experimenter’s code or Laboratory’s code invalid",
   "nextButton": "Continue",
-  "idWarning": "Your experimenter or laboratory id is invalid.",
+  "idWarning": "Your experimenter or laboratory code is invalid.",
   "idWarningTest": "Continue in test mode",
   "idWarningRetry": "Try again",
   "consent1": "In this study, it is important not to have missing data. This means that you should only start the experiment if you are sure that you will be able to complete all experimental trials without taking a break. There are 36 trials in total which take about 10 minutes to complete. Please turn off your phone, take care of all needs, and make sure you are prepared to complete the experiment before continuing.",
