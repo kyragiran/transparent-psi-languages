@@ -20,7 +20,7 @@
   "requiredField": "Kérem, minden kérdésre válaszoljon.",
   "sexChoices": ["Férfi", "Nő"],
   "orientation": "Szexuális orientáció",
-  "orientationChoices": ["Homoszexuális/Leszbikus", "Heteroszexuális", "Biszexuális – azonos nemű képeket részesítek előnyben", "Biszexuális – ellenkező nemű képeket részesítek előnyben", "Inkább nem válaszolnék"],
+  "orientationChoices": ["Heteroszexuális", "Homoszexuális/Leszbikus", "Biszexuális – azonos nemű képeket részesítek előnyben", "Biszexuális – ellenkező nemű képeket részesítek előnyben", "Inkább nem válaszolnék"],
   "formContinue": "Nyomjon a tovább gombra, ha készen áll a minta kép megtekintésére",
   "afterForm": "Annak tudatában is kívánja folytatni a kísérletet, hogy tudja milyen típusú képek jelenhetnek meg a kísérlet során? A kísérlet hasonló képeket tartalmaz. Ha kétségei vannak a kísérlet folytatásával kapcsolatban, akkor inkább utasítsa vissza a részvételt. A beleegyezem a folytatásba gombra való kattintással elindítja a kísérletet. Kérjük vegye figyelembe, hogy a kísérletet egyénileg kell kitöltenie. Más résztvevőkkel való kommunikáció nem megengedett a kísérlet alatt.",
   "continueAfterTestImage": "Beleegyezés és folytatás",
