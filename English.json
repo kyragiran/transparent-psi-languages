@@ -20,7 +20,7 @@
   "requiredField": "Please select one of the options below in each question",
   "sexChoices": ["Male", "Female"],
   "orientation": "Sexual orientation",
-  "orientationChoices": ["Gay/Lesbian", "Heterosexual", "Bisexual – prefer same-sex erotic images", "Bisexual – prefer opposite-sex erotic images", "Prefer not to answer - discontinue experiment"],
+  "orientationChoices": ["Heterosexual", "Gay/Lesbian", "Bisexual – prefer same-sex erotic images", "Bisexual – prefer opposite-sex erotic images", "Prefer not to answer - discontinue experiment"],
   "formContinue": "Press continue to indicate that you are ready to see the sample image",
   "afterForm": "Are you comfortable with continuing the experiment after knowing the types of images that may be displayed? The experiment may contain similar images. If you have doubts about whether or not you will be comfortable with completing the experiment you should refuse participation. By pressing the agree to continue button you will start the experiment. Please note that the experiment needs to be completed individually. Interaction with other participants is not allowed during the experiment.",
   "continueAfterTestImage": "Agree to continue",
