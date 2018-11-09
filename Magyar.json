@@ -46,7 +46,7 @@
   "relaxation_screen": "Arra kérjük, hogy relaxáljon 3 percig, nézze a képernyőt, és próbáljon meg az elméjéből kiüríteni minden más gondolatot és képet. A relaxációs szakasz végén további instrukciók fognak megjelenni.",
   "instructions_screen_head": "Instrukciók",
   "instructions_screen": "Két függöny fog megjelenni a képernyőn egymás mellett. Az egyik függöny mögött egy kép van, míg a másik mögött egy üres fal. A válasz gombokkal adja meg, hogy melyik függöny mögött érzi a képet. Ha úgy érzi, hogy a BAL függöny mögött van a kép, nyomja meg a [A gomb]. Ha úgy érzi, hogy a JOBB függöny mögött van a kép, nyomja meg a [L gomb]. Válassza az azonnali megérzése szerinti választ. Ne töltsön időt a válasza vizsgálatával.",
-  "instructions_screen2": "Próbáljon meg békés, meditatív állapotban maradni. A választott függöny ki fog nyílni. Amikor a kép a csillagos égről megjelenik, ürítse ki elméjét a következő próbához. Most készüljön fel azzal, hogy a kezeit az asztalra helyezi úgy, hogy a két mutató ujjával a két válasz billentyűt le tudja nyomni.",
+  "instructions_screen2": "Próbáljon meg békés, meditatív állapotban maradni. A választott függöny ki fog nyílni, és később a csillagos égbolt képe újra megjelenik majd egy rövid időre. Amikor a kép a csillagos égről megjelenik, ürítse ki elméjét a következő próbához. Most készüljön fel azzal, hogy a kezeit az asztalra helyezi úgy, hogy a két mutató ujjával a két válasz billentyűt le tudja nyomni.",
   "instructions_screen_after": "Nyomja meg a két gomb bármelyikét a kezdéshez.",
   "result_screen_1": "Befejezte a kísérletet. A rejtett képet a próbák",
   "result_screen_2erotic": " %-ában találta meg az erotikus képek esetén, és a próbák",
