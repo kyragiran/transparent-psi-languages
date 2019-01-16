@@ -37,7 +37,7 @@
   "ESP_Q_item_2": "Have you had any experiences that you believe were genuine ESP?",
   "ESP_Q_item_2Choices": ["","Definitely no", "Probably no", "Don't know", "Probably yes", "Definitely yes"],
   "ESP_Q_item_3": "Have you ever practiced any form of meditation, self-hypnosis, relaxation exercises, or biofeedback?",
-  "ESP_Q_item_3Choices": ["", "No, never", "Only a few times", "Occasionally", "Regurarly in the past", "Regurarly no"],
+  "ESP_Q_item_3Choices": ["", "No, never", "Only a few times", "Occasionally", "Regularly in the past", "Regularly now"],
   "SS_Q_item_Header": "For each of the following statements, please indicate how true it is for you.",
   "SS_Q_item_1": "I often enjoy seeing movies I’ve seen before.",
   "SS_Q2A_item_1Choices": ["", "very untrue", "untrue", "between true and untrue", "true","very true"],
