@@ -1,0 +1,165 @@
+  {
+
+  "introHead": "Willkommen beim Transparent Psi Projekt!",
+
+  "introBody": "Klicken Sie auf den Knopf unten, um zur Einwilligungserklärung zu gelangen.",
+
+  "introText": "Dies ist die Datenerfassungssoftware für das Transparent Psi Projekt. Bitte füllen Sie die vorliegenden Felder aus, bevor Sie zum Teilnehmer*innen-Bildschirm weitergehen.",
+
+  "warnTest": "Die Anwendung läuft im Testmodus und die Daten werden als Testdaten gespeichert!",
+
+  "warnPilot": "Die Anwendung läuft im Pilotmodus und die Daten werden als Pilotdaten gespeichert!",
+
+  "introExpCode": "Code der Versuchsleitung",
+
+  "introLabCode": "Code des Labors",
+
+  "introError": "Code der Versuchsleitung oder des Labors ungültig",
+
+  "nextButton": "Weiter",
+
+  "idWarning": "Code der Versuchsleitung oder des Labors ungültig.",
+
+  "idWarningTest": "Im Testmodus ausführen",
+
+  "idWarningRetry": "Versuchen Sie es noch einmal",
+
+  "session": "Sitzungsart:",
+
+  "consent1": "Bei dieser Studie ist es wichtig, keine fehlenden Daten zu haben. Das bedeutet, dass Sie das Experiment nur dann beginnen sollten, wenn Sie sicher sind, dass Sie alle experimentellen Versuche ohne eine Pause abschließen können. Es gibt insgesamt 36 Versuche, die etwa 10 Minuten dauern. Bitte schalten Sie Ihr Telefon aus, sorgen Sie für alles, was Sie brauchen, und vergewissern Sie sich, dass Sie bereit sind, das Experiment zu Ende zu führen, bevor Sie fortfahren.",
+
+  "consent2": "Wenn Sie vor der Weiterführung etwas erledigen müssen, wofür Sie Ihren Platz verlassen müssten, benachrichtigen Sie bitte die Versuchsleitung. Wir möchten sicherstellen, dass Sie sich mit der Art der Stimuli, die wir verwenden, wohl fühlen, bevor Sie der Teilnahme an der Studie zustimmen. Wie in der Einverständniserklärung angegeben, werden Sie während des Experiments explizit erotische und pornographische Bilder sehen.",
+
+  "consent3": "Wir würden Ihnen gerne ein Beispielbild zeigen, um sicherzustellen, dass Sie damit einverstanden sind. Damit wir Ihnen Bilder zeigen können, die für Sie ansprechend sind, müssen wir Ihr Geschlecht und Ihre sexuelle Orientierung kennen. Bitte geben Sie unten Ihr Alter, Geschlecht und Ihre sexuelle Orientierung an. (Ihre sexuelle Orientierung wird nicht abgespeichert, und niemand (auch nicht die Versuchsleitung oder die Projektleitung der Studie) wird Informationen über Ihre Antwort auf diese Frage oder die Ihnen gezeigten Bilder erhalten können.)",
+
+  "age": "Zu welcher Altersgruppe gehören Sie?",
+
+  "sex": "Geschlecht",
+
+  "requiredField": "Bitte wählen Sie in jeder der folgenden Fragen eine der Optionen aus",
+
+  "sexChoices": ["Männlich", "Weiblich"],
+
+  "orientation": "Sexuelle Orientierung",
+
+  "orientationChoices": ["Heterosexuell", "Schwul/Lesbisch", "Bisexuell - lieber gleichgeschlechtliche erotische Bilder", "Bisexuell - lieber gegengeschlechtliche erotische Bilder", "Lieber nicht antworten - Experiment abbrechen"],
+
+  "formContinue": "Klicken Sie auf "Weiter", um anzugeben, dass Sie bereit sind, das Beispielbild zu sehen",
+
+  "afterForm": " Sind Sie damit einverstanden, das Experiment fortzusetzen, nachdem Sie die Art der Bilder kennen, die angezeigt werden? Das Experiment kann ähnliche Bilder enthalten. Wenn Sie Zweifel haben, ob Sie das Experiment durchführen werden können oder nicht, sollten Sie die Teilnahme verweigern. Durch das Klicken auf die Schaltfläche "Zustimmung, fortzufahren" starten Sie das Experiment. Bitte beachten Sie, dass das Experiment individuell abgeschlossen werden muss. Eine Interaktion mit anderen Teilnehmenden ist während des Experiments nicht erlaubt.",
+
+  "continueAfterTestImage": "Zustimmen, fortzufahren",
+
+  "refuseButton": "Teilnahme verweigern",
+
+  "rewardNeeded": "Code zur Einforderung der Vergütung anzeigen: ",
+
+  "rewardInfo": "Dies ist Ihr Code für die Vergütung. Bitte notieren Sie sich den unten stehenden Code (schreiben Sie ihn z.B. auf ein Stück Papier). Sie können diesen Code verwenden, um die Vergütung für die Studienteilnahme zu erhalten.",
+
+  "ESPIntro": "Bitte beantworten Sie die folgenden Fragen. Extrasensory Perception (ESP; außersinnliche Wahrnehmung) ist der Empfang von Informationen ohne dass dabei die bekannten Sinne zum Einsatz kommen. Sie umfasst:",
+
+  "ESPIntro1": "Telepathie: ESP von Gedanken einer anderen Person.",
+
+  "ESPIntro2": "Hellsehen: ESP von verborgenen Objekten oder entfernten Ereignissen. (Auch Fernwahrnehmung genannt.)",
+
+  "ESPIntro3": "Vorausahnung: ESP von zukünftigen Ereignissen",
+
+  "rewardContinue": "Klicken Sie auf "Weiter", wenn Sie den Code notiert haben.",
+
+  "ESP_Q_item_1": "Glauben Sie, dass ESP existiert?",
+
+  "ESP_Q_item_1Choices": ["", "Bestimmt nicht", "Wahrscheinlich nicht", "Weiß nicht", "Wahrscheinlich", "Bestimmt"],
+
+  "ESP_Q_item_2": "Haben Sie Erfahrungen gemacht, von denen Sie glauben, dass es sich dabei um ESP handelt?",
+
+  "ESP_Q_item_2Choices": ["", " Bestimmt nicht", "Wahrscheinlich nicht", "Weiß nicht", "Wahrscheinlich ja", "Bestimmt ja"],
+
+  "ESP_Q_item_3": "Haben Sie jemals eine Form von Meditation, Selbsthypnose, Entspannungsübungen oder Biofeedback praktiziert?",
+
+  "ESP_Q_item_3Choices": ["", "Nein, nie", "Nur ein paar Mal", "Gelegentlich", "Regelmäßig in der Vergangenheit", "Regelmäßig nein"],
+
+  "SS_Q_item_Header": "Bitte geben Sie für jede der folgenden Aussagen an, wie zutreffend sie für Sie ist.",
+
+  "SS_Q_item_1": "Ich mag es oft, Filme zu sehen, die ich schon mal gesehen habe.",
+
+  "SS_Q2A_item_1Choices": ["", "sehr unwahr", "unwahr", "zwischen wahr und unwahr", "wahr", "sehr wahr"],
+
+  "SS_Q_item_2": "Im Allgemeinen bin ich leicht gelangweilt.",
+
+  "SS_Q2A_item_2Choices": ["", "sehr unwahr", "unwahr", "zwischen wahr und unwahr", "wahr", "sehr wahr"],
+
+  "relaxation_screen": "Für die nächsten 3 Minuten möchten wir Sie bitten, sich zu entspannen, auf den Bildschirm zu schauen und zu versuchen, Ihren Geist von allen anderen Gedanken und Bildern zu befreien. Am Ende der Entspannungsphase werden weitere Anweisungen erscheinen.",
+
+  "instructions_screen_head": "Anweisungen",
+
+  "instructions_screen": "Zwei 'Vorhänge' werden auf dem Computerbildschirm nebeneinander erscheinen. Hinter einem der Vorhänge befindet sich ein Bild, hinter dem anderen eine leere graue Wand. Geben Sie mit den Eingabetasten an, welcher Vorhang Ihrem Gefühl nach das Bild verdeckt. Wenn Sie spüren, dass sich hinter dem LINKEN Vorhang ein Bild befindet, drücken Sie die [A-Taste]. Wenn Sie spüren, dass es sich hinter dem RECHTEN Vorhang befindet, drücken Sie die [L-Taste]. Folgen Sie Ihrer unmittelbaren intuitiven Reaktion. Nehmen Sie sich nicht die Zeit, Ihre Wahl zu analysieren.",
+
+  "instructions_screen2": "Versuchen Sie, einen friedlichen meditativen Geisteszustand zu bewahren. Der gewählte Vorhang wird sich öffnen. Wenn der Sternenhimmel erscheint, machen Sie Ihren Geist für den nächsten Versuch frei. Machen Sie sich nun bereit, indem Sie Ihre Hände auf den Schreibtisch vor der Tastatur legen so dass Sie die beiden Tasten mit Ihren beiden Zeigefingern drücken können.",
+
+  "instructions_screen_after": "Drücken Sie eine der Tasten, um zu beginnen.",
+
+  "result_screen_1": "Sie haben nun das Experiment abgeschlossen. Sie waren in der Lage, das versteckte Bild aufzudecken bei",
+
+  "result_screen_2erotic": " % der Versuche mit erotischen Bildern.",
+
+  "result_screen_2non_erotic": " % der Versuche mit nicht-erotischen Bildern.",
+
+  "result_screen_2finish": "(Die Versuchsleitung wird Ihnen die Bedeutung dieser Ergebnisse erklären.)",
+
+  "result_screen_3": "Vielen Dank für die Teilnahme an diesem Experiment. Bitte zeigen Sie mit einem kurzen Handheben, dass Sie fertig sind. Möglicherweise sind Sie früher als andere Teilnehmende fertig geworden. Bitte warten Sie geduldig, bis alle die Aufgabe abgeschlossen haben, um die anderen nicht zu stören. Bitte heben Sie die Hand, wenn Sie dringende Fragen haben.",
+
+  "info_1": "Informationsformular",
+
+  "info_pic": "https://www.danishdiabetesacademy.dk/sites/default/files/styles/main_image_-_height_only/public/news_images/lund_university_logo.jpg?itok=YP10Mw3U&sc=cc24a5a45efc88b3ae9a2a8284b41467",
+
+  "info_1_1": "Sehr geehrte Teilnehmende, Sie nehmen an einer Forschungsstudie teil, die von Dr. Zoltan Kekecs, Forscher an der Universität Lund, Department für Psychologie, und Dr. Balazs Aczel, Forscher an der Eötvös-Loránd-Universität, Department für Affektive Psychologie, geleitet wird.",
+
+  "info_1_2": "Ziel der Studie ist es, eine Forschungsmethodik zu entwickeln und umzusetzen, die die Glaubwürdigkeit der experimentellen Forschung im Allgemeinen erhöhen kann. Diese Forschungsmethodik wird in der parapsychologischen Studie von Bem (2011) umgesetzt, in der die außersinnliche Wahrnehmung der Teilnehmenden gemessen wird, d.h. der Empfang von Informationen ohne den Einsatz der bekannten Sinne, wie Telepathie, Hellsehen und Vorausahnung.",
+
+  "info_2": "Aufgabe",
+
+  "info_2_1": "Nachdem Sie zugestimmt haben, an dieser Studie teilzunehmen, werden Sie gebeten, einige Informationen über sich selbst zu geben, dann werden Sie gebeten, fünf einfache Fragen zu beantworten, die sich auf Ihre Gedanken über außersinnliche Wahrnehmung und Ihre Persönlichkeit beziehen. Danach werden zwei 'Vorhänge' nebeneinander auf dem Computerbildschirm erscheinen. Hinter einem der Vorhänge ist ein Bild versteckt, hinter dem anderen befindet sich eine leere graue Wand. Mit den Eingabetasten müssen Sie angeben, welcher Vorhang Ihrem Gefühl nach das Bild verdeckt. Die Teilnahme dauert etwa 20 Minuten.",
+
+  "info_3": "Stimuli",
+
+  "info_3_1": "Während der Studie werden offen erotische und pornographische Bilder gezeigt. Die Bilder können explizite und unbedeckte Visualisierungen der Genitalien und des sexuellen Aktes enthalten, die bei manchen Menschen Erregung oder unangenehme Gefühle hervorrufen können. Die Teilnahme an der Studie ist vollkommen freiwillig. Sie können die Teilnahme ohne weitere Begründung unterbrechen oder die Beantwortung der Fragen verweigern.",
+
+  "info_4": "Datenverarbeitung",
+
+  "info_4_1": "Wir behandeln alle Informationen, die während der Studie gesammelt werden, streng vertraulich. Die nicht identifizierbaren Daten, die im Rahmen der Studie erhoben werden, werden unmittelbar nach der Datenerhebung im Internet zur Verfügung gestellt. Die Daten können nach dem Beginn des Experiments nicht gelöscht werden. Die auf diese Weise geteilten Daten dienen der Transparenz der Studie, und diese Daten können nicht mit der persönlichen Identität der befragten Person verknüpft werden. Wir werden die während der Studie gesammelten Daten zusammenfassen und statistische Analysen dazu durchführen. Keiner der Teilnehmenden wird aus den Ergebnissen der Studie oder den veröffentlichten Daten identifizierbar sein.",
+
+  "info_4_2": "Wir werden Fragen zu Ihrem Geschlecht und Ihrer sexuellen Orientierung stellen, so dass die experimentelle Software in der Lage ist, erotische Bilder zu zeigen, die für Sie angenehm sind. Ihre sexuelle Orientierung wird nicht aufgezeichnet, und niemand (auch nicht die Versuchsleitung oder die Projektleitung der Studie) wird in der Lage sein, Informationen über Ihre Antwort auf diese Frage oder die Ihnen gezeigten Bilder zu erhalten.",
+
+  "info_4_3": "Wenn Sie mit den obigen Bedingungen und der Teilnahme am Experiment einverstanden sind, geben Sie dies bitte an, indem Sie unten auf die Schaltfläche "Ich bin mit der Teilnahme einverstanden" klicken. Vielen Dank im Voraus für Ihre Mitarbeit.",
+
+  "participants": "Die Teilnehmenden müssen mindestens 18 Jahre alt sein, um an dieser Studie teilnehmen zu können.",
+
+  "info_5": "Feedback und andere Fragen",
+
+  "info_5_1": "Am Ende des Experiments erhalten die Teilnehmenden eine Rückmeldung über ihre Erfolgsquote bei der experimentellen Aufgabe und können Fragen an die anwesende Versuchsleitung stellen. Mit allen anderen Fragen können sich die Teilnehmenden an Dr. Balazs Aczels wenden. E-Mail: aczel.balazs@ppk.elte.hu.",
+
+  "info_5_2": "Haben Sie die Teilnahmebedingungen verstanden?",
+
+  "acceptConsentButton": "Ja, ich habe die Teilnahmebedingungen verstanden",
+
+  "refuseConsentButton": "Nein, ich weigere mich, an der Studie teilzunehmen",
+
+  "consent_form": "Einverständniserklärung",
+
+  "consent_form_content_1": "Ich erkläre, dass ich heute freiwillig an dem von Dr. Zoltan Kekecs' und Dr. Balazs Aczels geleiteten Experiment an der Universität Witten/Herdecke teilnehme und dass ich vor Beginn der Studie angemessen schriftlich über die Studie informiert wurde. Außerdem erkläre ich, dass ich zum ersten Mal an diesem Experiment teilnehme. Ich habe keine psychiatrische Krankheit. Ich stehe nicht unter dem Einfluss von Alkohol oder Drogen während der Studiensitzung.",
+
+  "consent_form_content_2": "Ich nehme zur Kenntnis, dass Informationen, die meine persönliche Identifizierung ermöglichen würden, vertraulich behandelt werden. Ich bin damit einverstanden, dass meine deidentifizierten Daten öffentlich zugänglich gemacht werden. Ich behalte mir das Recht vor, die Teilnahme jederzeit während der Studiensitzung zu beenden.",
+
+  "consent_form_content_3": "Ich nehme zur Kenntnis, dass nur Teilnehmer, die mindestens 18 Jahre alt sind, an der Studie teilnehmen können.",
+
+  "consent_form_content_4": "Sind Sie über die Einzelheiten Ihrer Teilnahme ausreichend informiert worden und akzeptieren Sie die Bedingungen?",
+
+  "agreeParticipateButton": "Ja, ich bin über die Einzelheiten meiner Teilnahme ausreichend informiert worden und stimme der Teilnahme zu", 
+
+  "refuseParticipateButton": "Nein, ich lehne die Teilnahme ab",
+
+  "refuse": "Danke, dass Sie die Teilnahme an unserer Studie in Betracht gezogen haben. Einen schönen Tag noch!",
+
+  "quit": "Beenden"
+
+}
